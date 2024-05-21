@@ -25,7 +25,8 @@
 
 #### Question 75 -> 100
 
-79. Word Search
+78. Subsets -> T: O(n2^n), S: O(n2^n)
+79. Word Search -> T: O(n4^n), S: O(n)
 
 #### Question 100 -> 125
 
