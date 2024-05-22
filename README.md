@@ -1,5 +1,9 @@
 # Leetcode Solutions
 
+#### Question 1 -> 25
+
+1. Two Sum -> T: O(n), S: O(n)
+
 #### Question 25 -> 50
 
 26. Remove Duplicates from Sorted Array -> T: O(n), S: O(1)
@@ -12,16 +16,31 @@
 33. N.A
 34. N.A
 35. N.A
-36. N.A
+36. Valid Sudoku -> T: O(1), S: O(1)
 37. N.A
 38. N.A
 39. N.A
 40. N.A
 41. First Missing Positive -> T: O(n), S: O(1)
+42. N.A
+43. N.A
+44. N.A
+45. N.A
+46. N.A
+47. N.A
+48. Rotate Image -> T: O(n^2), S: O(1)
 
 #### Question 50 -> 75
 
-58. Length of Last Word
+58. Length of Last Word -> T: O(n), S: O(n)
+59. N.A
+60. N.A
+61. N.A
+62. N.A
+63. N.A
+64. N.A
+65. N.A
+66. Plus One -> T: O(n), S: O(n)
 
 #### Question 75 -> 100
 
@@ -31,6 +50,10 @@
 #### Question 100 -> 125
 
 122. Best Time to Buy and Sell Stock II
+
+#### Question 125 -> 150
+
+136. Single Number -> T: O(n), S:O(1)
 
 #### Question 150 -> 175
 
@@ -62,7 +85,15 @@
 
 #### Question 275 -> 300
 
-287. Find the Duplicate Number
+283. Move Zeroes -> T: O(n), S: O(1)
+284. N.A
+285. N.A
+286. N.A
+287. Find the Duplicate Number -> T: O(n), S: O(1)
+
+#### Question 350 -> 375
+
+350. Intersection of Two Arrays II -> T: O(n), S: O(n)
 
 #### Question 425 -> 450
 
