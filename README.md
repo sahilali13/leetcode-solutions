@@ -215,6 +215,10 @@
 
 2487. Remove Nodes From Linked List -> T: O(n), S: O(1)
 
+#### Question 2575 -> 2600
+
+2597. The Number of Beautiful Subsets -> T: O(nlogn), S: O(n) _**Actually Hard**_
+
 #### Question 2800 -> 2825
 
 2812. Find the Safest Path in a Grid -> T: O(n^2logn), S: O(n^2)
