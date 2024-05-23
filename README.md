@@ -62,6 +62,16 @@
 
 #### Question 150 -> 175
 
+155. Min Stack -> T: O(1), S: O(1)
+156. N.A
+157. N.A
+158. N.A
+159. N.A
+160. N.A
+161. N.A
+162. N.A
+163. N.A
+164. N.A
 165. Compare Version Numbers -> T: O(n), S: O(n)
 
 #### Question 175 -> 200
@@ -99,6 +109,10 @@
 #### Question 350 -> 375
 
 350. Intersection of Two Arrays II -> T: O(n), S: O(n)
+
+#### Question 375 -> 400
+
+384. Shuffle an Array -> T: O(n), S: O(1)
 
 #### Question 425 -> 450
 
