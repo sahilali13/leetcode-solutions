@@ -32,6 +32,11 @@
 
 #### Question 50 -> 75
 
+53. Maximum Subarray -> T: O(n), S: O(1)
+54. N.A
+55. N.A
+56. N.A
+57. N.A
 58. Length of Last Word -> T: O(n), S: O(n)
 59. N.A
 60. N.A
@@ -41,6 +46,10 @@
 64. N.A
 65. N.A
 66. Plus One -> T: O(n), S: O(n)
+67. N.A
+68. N.A
+69. N.A
+70. Climbing Stairs -> T: O(n), S: O(1)
 
 #### Question 75 -> 100
 
@@ -49,7 +58,8 @@
 
 #### Question 100 -> 125
 
-122. Best Time to Buy and Sell Stock II
+121. Best Time to Buy and Sell Stock -> T: O(n), S: O(1)
+122. Best Time to Buy and Sell Stock II -> T: O(n), S: O(1)
 
 #### Question 125 -> 150
 
@@ -76,7 +86,16 @@
 
 #### Question 175 -> 200
 
-189. Rotate Array
+189. Rotate Array -> T: O(n), S: O(1)
+190. N.A
+191. N.A
+192. N.A
+193. N.A
+194. N.A
+195. N.A
+196. N.A
+197. N.A
+198. House Robber -> T: O(n), S: O(1)
 
 #### Question 200 -> 225
 
