@@ -194,6 +194,10 @@
 
 1249. Minimum Remove to Make Valid Parentheses
 
+#### Question 1250 -> 1275
+
+1255. Maximum Score Words Formed by Letters -> T: O(n2^n), S: O(n)
+
 #### Question 1325 -> 1350
 
 1325. Delete Leaves With a Given Value -> T: O(n), S: O(n)
