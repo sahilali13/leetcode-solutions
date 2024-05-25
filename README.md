@@ -3,6 +3,26 @@
 #### Question 1 -> 25
 
 1. Two Sum -> T: O(n), S: O(n)
+2. N.A
+3. N.A
+4. N.A
+5. N.A
+6. N.A
+7. N.A
+8. N.A
+9. N.A
+10. N.A
+11. N.A
+12. N.A
+13. N.A
+14. N.A
+15. N.A
+16. N.A
+17. N.A
+18. N.A
+19. Remove Nth Node From End of List -> T: O(n), S: O(1)
+20. N.A
+21. Merge Two Sorted Lists -> T: O(n), S: O(1)
 
 #### Question 25 -> 50
 
@@ -69,6 +89,11 @@
 134. N.A
 135. N.A
 136. Single Number -> T: O(n), S:O(1)
+137. N.A
+138. N.A
+139. N.A
+140. N.A
+141. Linked List Cycle -> T: O(n), S:O(1)
 
 #### Question 150 -> 175
 
@@ -99,8 +124,8 @@
 
 #### Question 200 -> 225
 
-205. Isomorphic Strings
-206. N.A
+205. Isomorphic Strings -> T: O(n), S: O(n)
+206. Reverse Linked List -> T: O(n), S: O(1)
 207. N.A
 208. N.A
 209. N.A
@@ -111,10 +136,13 @@
 214. N.A
 215. N.A
 216. N.A
-217. Contains Duplicate
+217. Contains Duplicate -> T: O(nlogn), S: O(1)
 
 #### Question 225 -> 250
 
+234. Palindrome Linked List -> T: O(n), S: O(1)
+235. N.A
+236. N.A
 237. Delete Node in a Linked List -> T: O(1), S: O(1)
 
 #### Question 275 -> 300
