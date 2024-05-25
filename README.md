@@ -92,7 +92,7 @@
 137. N.A
 138. N.A
 139. N.A
-140. N.A
+140. Word Break II -> T: O(n^2.k), S: O(n^2)
 141. Linked List Cycle -> T: O(n), S:O(1)
 
 #### Question 150 -> 175
