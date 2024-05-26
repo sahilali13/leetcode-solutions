@@ -296,7 +296,11 @@
 
 #### Question 3150 -> 3175
 
-3158. Find the XOR of Numbers Which Appear Twice -> T: O(nums), S: O(1)
-3159. Find Occurrences of an Element in an Array -> T: O(nums+queries), S: O(occurences + indices)
-3160. Find the Number of Distinct Colors Among the Balls -> T: O(queries), S: O(balls, distinct_colors)
-3161. Block Placement Queries
+3158. Find the XOR of Numbers Which Appear Twice -> T: O(n), S: O(1)
+3159. Find Occurrences of an Element in an Array -> T: O(n), S: O(n)
+3160. Find the Number of Distinct Colors Among the Balls -> T: O(n), S: O(n)
+3161. Block Placement Queries -> T: O(nlogn), S: O(n)
+3162. Find the Number of Good Pairs I -> T: O(n^2), S: O(1)
+3163. String Compression III -> T: O(n), S: O(n)
+3164. Find the Number of Good Pairs II -> T: O(n^2), S: O(n)
+3165. Maximum Sum of Subsequence With Non-adjacent Elements -> T: O(nsqrtn), S: O(n)
