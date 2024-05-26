@@ -293,3 +293,10 @@
 #### Question 3075 -> 3100
 
 3075. Maximize Happiness of Selected Children -> T:O(nlogn), S: O(1)
+
+#### Question 3150 -> 3175
+
+3158. Find the XOR of Numbers Which Appear Twice -> T: O(nums), S: O(1)
+3159. Find Occurrences of an Element in an Array -> T: O(nums+queries), S: O(occurences + indices)
+3160. Find the Number of Distinct Colors Among the Balls -> T: O(queries), S: O(balls, distinct_colors)
+3161. Block Placement Queries
