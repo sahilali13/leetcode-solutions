@@ -178,6 +178,10 @@
 
 506. Relative Ranks -> T: O(n), S: O(n)
 
+#### Question 550 -> 575
+
+552. Student Attendance Record II -> T: O(n), S: O(1)
+
 #### Question 675 -> 700
 
 678. Valid Parenthesis String
