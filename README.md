@@ -14,7 +14,7 @@
 10. N.A
 11. N.A
 12. N.A
-13. N.A
+13. Roman to Integer -> T: O(n), S: O(n)
 14. N.A
 15. N.A
 16. N.A
@@ -124,6 +124,7 @@
 
 #### Question 200 -> 225
 
+204. Count Primes -> T: O(log(log(n))) S: O(n)
 205. Isomorphic Strings -> T: O(n), S: O(n)
 206. Reverse Linked List -> T: O(n), S: O(1)
 207. N.A
@@ -153,6 +154,10 @@
 286. N.A
 287. Find the Duplicate Number -> T: O(n), S: O(1)
 
+#### Question 325 -> 350
+
+326. Power of Three -> T: O(1), S: O(1)
+
 #### Question 350 -> 375
 
 350. Intersection of Two Arrays II -> T: O(n), S: O(n)
@@ -160,6 +165,10 @@
 #### Question 375 -> 400
 
 384. Shuffle an Array -> T: O(n), S: O(1)
+
+#### Question 400 -> 425
+
+412. Fizz Buzz -> T: O(n), S: O(n)
 
 #### Question 425 -> 450
 
