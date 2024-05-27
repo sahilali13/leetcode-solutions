@@ -21,7 +21,7 @@
 17. N.A
 18. N.A
 19. Remove Nth Node From End of List -> T: O(n), S: O(1)
-20. N.A
+20. Valid Parentheses -> T: O(n), S: O(n)
 21. Merge Two Sorted Lists -> T: O(n), S: O(1)
 
 #### Question 25 -> 50
@@ -78,6 +78,9 @@
 
 #### Question 100 -> 125
 
+118. Pascal's Triangle -> T: O(n<sup>2</sup>), S: O(n)
+119. N.A
+120. N.A
 121. Best Time to Buy and Sell Stock -> T: O(n), S: O(1)
 122. Best Time to Buy and Sell Stock II -> T: O(n), S: O(1)
 
@@ -112,8 +115,8 @@
 #### Question 175 -> 200
 
 189. Rotate Array -> T: O(n), S: O(1)
-190. N.A
-191. N.A
+190. Reverse Bits -> T: O(1), S: O(1)
+191. Number of 1 Bits -> T: O(log(n)), S: O(1)s
 192. N.A
 193. N.A
 194. N.A
@@ -146,6 +149,10 @@
 236. N.A
 237. Delete Node in a Linked List -> T: O(1), S: O(1)
 
+#### Question 250 -> 275
+
+268. Missing Number -> T: O(n), S: O(1)
+
 #### Question 275 -> 300
 
 283. Move Zeroes -> T: O(n), S: O(1)
@@ -173,6 +180,10 @@
 #### Question 425 -> 450
 
 442. Find All Duplicates in an Array
+
+#### Question 450 -> 475
+
+461. Hamming Distance -> T: O(log(n)), S: O(1)
 
 #### Question 500 -> 525
 
