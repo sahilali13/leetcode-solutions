@@ -260,7 +260,13 @@
 
 #### Question 1600 -> 1625
 
-1614. Maximum Nesting Depth of the Parentheses
+1608. Special Array With X Elements Greater Than or Equal X -> T: O(n), S: O(1)
+1609. N.A
+1610. N.A
+1611. N.A
+1612. N.A
+1613. N.A
+1614. Maximum Nesting Depth of the Parentheses -> T: O(n), S: O(1)
 
 #### Question 1700 -> 1725
 
