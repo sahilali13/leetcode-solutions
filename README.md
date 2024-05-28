@@ -254,7 +254,18 @@
 
 #### Question 1200 -> 1225
 
-1219. Path with Maximum Gold -> T: O(n^4), S: O(n^2)
+1208. Get Equal Substrings Within Budget -> T: O(n), S: O(1)
+1209. N.A
+1210. N.A
+1211. N.A
+1212. N.A
+1213. N.A
+1214. N.A
+1215. N.A
+1216. N.A
+1217. N.A
+1218. N.A
+1219. Path with Maximum Gold -> T: O(rows $\times$ col)
 
 #### Question 1225 -> 1250
 
