@@ -73,8 +73,17 @@
 
 #### Question 75 -> 100
 
-78. Subsets -> T: O(n2^n), S: O(n2^n)
-79. Word Search -> T: O(n4^n), S: O(n)
+78. Subsets -> T: O(n.2<sup>n</sup>), S: O(n.2<sup>n</sup>)
+79. Word Search -> T: O(rows.cols.4<sup>len(word)</sup>), S: O(len(word))
+80. N.A
+81. N.A
+82. N.A
+83. N.A
+84. N.A
+85. N.A
+86. N.A
+87. N.A
+88. Merge Sorted Array -> T: O(m + n), S: O(1)
 
 #### Question 100 -> 125
 
@@ -155,6 +164,11 @@
 
 #### Question 275 -> 300
 
+278. First Bad Version -> T: O(log(n)), S; O(1)
+279. N.A
+280. N.A
+281. N.A
+282. N.A
 283. Move Zeroes -> T: O(n), S: O(1)
 284. N.A
 285. N.A
