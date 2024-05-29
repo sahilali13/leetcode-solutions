@@ -8,27 +8,27 @@
 4. N.A
 5. N.A
 6. N.A
-7. N.A
-8. N.A
+7. Reverse Integer -> T: O(log<sub>10</sub>x), S: O(1)
+8. String to Integer (atoi) -> T: O(n), S: O(1)
 9. N.A
 10. N.A
 11. N.A
 12. N.A
-13. Roman to Integer -> T: O(n), S: O(n)
-14. N.A
+13. Roman to Integer -> T: O(n), S: O(1)
+14. Longest Common Prefix -> T: O(n $\times$ m), S: O(1)
 15. N.A
 16. N.A
 17. N.A
 18. N.A
 19. Remove Nth Node From End of List -> T: O(n), S: O(1)
 20. Valid Parentheses -> T: O(n), S: O(n)
-21. Merge Two Sorted Lists -> T: O(n), S: O(1)
+21. Merge Two Sorted Lists -> T: O(n + m), S: O(1)
 
 #### Question 25 -> 50
 
 26. Remove Duplicates from Sorted Array -> T: O(n), S: O(1)
 27. N.A
-28. N.A
+28. Find the Index of the First Occurrence in a String -> T: O(n $\times$ m), S: O(1)
 29. N.A
 30. N.A
 31. N.A
@@ -48,7 +48,7 @@
 45. N.A
 46. N.A
 47. N.A
-48. Rotate Image -> T: O(n^2), S: O(1)
+48. Rotate Image -> T: O(n<sup>2</sup>), S: O(1)
 
 #### Question 50 -> 75
 
@@ -95,7 +95,13 @@
 
 #### Question 125 -> 150
 
-131. Palindrome Partitioning -> T: O(n^2), S: O(n^2)
+125. Valid Palindrome -> T: O(n), S: O(1)
+126. N.A
+127. N.A
+128. N.A
+129. N.A
+130. N.A
+131. Palindrome Partitioning -> T: O(n<sup>2</sup> $\times$ 2<sup>n</sup>), S: O(n<sup>2</sup> + 2<sup>n</sup> $\times$ n)
 132. N.A
 133. N.A
 134. N.A
@@ -104,7 +110,7 @@
 137. N.A
 138. N.A
 139. N.A
-140. Word Break II -> T: O(n^2.k), S: O(n^2)
+140. Word Break II -> T: O(2<sup>n</sup>), S: O(n $\times$ 2<sup>n</sup>)
 141. Linked List Cycle -> T: O(n), S:O(1)
 
 #### Question 150 -> 175
@@ -157,6 +163,11 @@
 235. N.A
 236. N.A
 237. Delete Node in a Linked List -> T: O(1), S: O(1)
+238. N.A
+239. N.A
+240. N.A
+241. N.A
+242. Valid Anagram -> T: O(n), S: O(1)
 
 #### Question 250 -> 275
 
@@ -178,6 +189,24 @@
 #### Question 325 -> 350
 
 326. Power of Three -> T: O(1), S: O(1)
+327. N.A
+328. N.A
+329. N.A
+330. N.A
+331. N.A
+332. N.A
+333. N.A
+334. N.A
+335. N.A
+336. N.A
+337. N.A
+338. N.A
+339. N.A
+340. N.A
+341. N.A
+342. N.A
+343. N.A
+344. Reverse String -> T: O(n), S: O(1)
 
 #### Question 350 -> 375
 
@@ -185,7 +214,10 @@
 
 #### Question 375 -> 400
 
-384. Shuffle an Array -> T: O(n), S: O(1)
+384. Shuffle an Array -> Init => T: O(n), S: O(n), Reset => T: O(n), S: O(1), Shuffle => T: O(n), S: O(1)
+385. N.A
+386. N.A
+387. First Unique Character in a String -> T: O(n), S: O(1)
 
 #### Question 400 -> 425
 
