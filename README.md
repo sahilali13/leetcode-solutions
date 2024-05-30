@@ -84,9 +84,36 @@
 86. N.A
 87. N.A
 88. Merge Sorted Array -> T: O(m + n), S: O(1)
+89. N.A
+90. N.A
+91. N.A
+92. N.A
+93. N.A
+94. N.A
+95. N.A
+96. N.A
+97. N.A
+98. Validate Binary Search Tree -> T: O(n), S: O(h)
 
 #### Question 100 -> 125
 
+101. Symmetric Tree -> T: O(n), S: O(h)
+102. Binary Tree Level Order Traversal -> T: O(n), S: O(n)
+103. N.A
+104. Maximum Depth of Binary Tree -> T: O(n), S: O(n)
+105. N.A
+106. N.A
+107. N.A
+108. Convert Sorted Array to Binary Search Tree -> T: O(n), S: O(n)
+109. N.A
+110. N.A
+111. N.A
+112. N.A
+113. N.A
+114. N.A
+115. N.A
+116. N.A
+117. N.A
 118. Pascal's Triangle -> T: O(n<sup>2</sup>), S: O(n)
 119. N.A
 120. N.A
