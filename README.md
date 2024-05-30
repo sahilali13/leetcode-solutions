@@ -342,6 +342,10 @@
 
 1404. Number of Steps to Reduce a Number in Binary Representation to One -> T: O(n), S: O(1)
 
+#### Question 1425 -> 1450
+
+1442. Count Triplets That Can Form Two Arrays of Equal XOR -> T: O(n<sup>2</sup>), S: O(n)
+
 #### Question 1525 -> 1550
 
 1544. Make The String Great
