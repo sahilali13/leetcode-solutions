@@ -1,5 +1,7 @@
 # Leetcode Solutions
 
+`Total Question Solved : 114`
+
 #### Question 1 -> 25
 
 1. Two Sum -> T: O(n), S: O(n)
@@ -7,13 +9,13 @@
 3. N.A
 4. N.A
 5. N.A
-6. N.A
+6. Zigzag Conversion -> T: O(n), S: O(n)
 7. Reverse Integer -> T: O(log<sub>10</sub>x), S: O(1)
 8. String to Integer (atoi) -> T: O(n), S: O(1)
 9. N.A
 10. N.A
 11. N.A
-12. N.A
+12. Integer to Roman -> T: O(n), S: O(1)
 13. Roman to Integer -> T: O(n), S: O(1)
 14. Longest Common Prefix -> T: O(n $\times$ m), S: O(1)
 15. N.A
@@ -27,7 +29,7 @@
 #### Question 25 -> 50
 
 26. Remove Duplicates from Sorted Array -> T: O(n), S: O(1)
-27. N.A
+27. Remove Element -> T: O(n), S: O(1)
 28. Find the Index of the First Occurrence in a String -> T: O(n $\times$ m), S: O(1)
 29. N.A
 30. N.A
@@ -42,10 +44,10 @@
 39. N.A
 40. N.A
 41. First Missing Positive -> T: O(n), S: O(1)
-42. N.A
+42. Trapping Rain Water -> T: O(n), S: O(1)
 43. N.A
 44. N.A
-45. N.A
+45. Jump Game II -> T: O(n), S: O(1)
 46. N.A
 47. N.A
 48. Rotate Image -> T: O(n<sup>2</sup>), S: O(1)
@@ -54,10 +56,10 @@
 
 53. Maximum Subarray -> T: O(n), S: O(1)
 54. N.A
-55. N.A
+55. Jump Game -> T: O(n), S: O(n)
 56. N.A
 57. N.A
-58. Length of Last Word -> T: O(n), S: O(n)
+58. Length of Last Word -> T: O(n), S: O(1)
 59. N.A
 60. N.A
 61. N.A
@@ -65,9 +67,9 @@
 63. N.A
 64. N.A
 65. N.A
-66. Plus One -> T: O(n), S: O(n)
+66. Plus One -> T: O(n), S: O(1)
 67. N.A
-68. N.A
+68. Text Justification -> T: O(n), S: O(n $\times$ maxWidth)
 69. N.A
 70. Climbing Stairs -> T: O(n), S: O(1)
 
@@ -75,7 +77,7 @@
 
 78. Subsets -> T: O(n.2<sup>n</sup>), S: O(n.2<sup>n</sup>)
 79. Word Search -> T: O(rows.cols.4<sup>len(word)</sup>), S: O(len(word))
-80. N.A
+80. Remove Duplicates from Sorted Array II -> T: O(n), S: O(1)
 81. N.A
 82. N.A
 83. N.A
@@ -131,9 +133,9 @@
 131. Palindrome Partitioning -> T: O(n<sup>2</sup> $\times$ 2<sup>n</sup>), S: O(n<sup>2</sup> + 2<sup>n</sup> $\times$ n)
 132. N.A
 133. N.A
-134. N.A
-135. N.A
-136. Single Number -> T: O(n), S:O(1)
+134. Gas Station -> T: O(n), S: O(1)
+135. Candy -> T: O(n), S: O(n)
+136. Single Number -> T: O(n), S: O(1)
 137. N.A
 138. N.A
 139. N.A
@@ -142,6 +144,10 @@
 
 #### Question 150 -> 175
 
+151. Reverse Words in a String -> T: O(n), S: O(n)
+152. N.A
+153. N.A
+154. N.A
 155. Min Stack -> T: O(1), S: O(1)
 156. N.A
 157. N.A
@@ -153,6 +159,10 @@
 163. N.A
 164. N.A
 165. Compare Version Numbers -> T: O(n), S: O(n)
+166. N.A
+167. N.A
+168. N.A
+169. Majority Element -> T: O(n), S: O(1)
 
 #### Question 175 -> 200
 
@@ -190,7 +200,7 @@
 235. N.A
 236. N.A
 237. Delete Node in a Linked List -> T: O(1), S: O(1)
-238. N.A
+238. Product of Array Except Self -> T: O(n), S: O(1)
 239. N.A
 240. N.A
 241. N.A
@@ -199,6 +209,12 @@
 #### Question 250 -> 275
 
 268. Missing Number -> T: O(n), S: O(1)
+269. N.A
+270. N.A
+271. N.A
+272. N.A
+273. N.A
+274. H-Index -> T: O(n), S: O(n)
 
 #### Question 275 -> 300
 
@@ -241,6 +257,10 @@
 
 #### Question 375 -> 400
 
+380. Insert Delete GetRandom O(1) -> insert => T: O(1), S: O(n), remove => T: O(1), S: O(1), getRandom => T: O(1), S: O(1)
+381. N.A
+382. N.A
+383. N.A
 384. Shuffle an Array -> Init => T: O(n), S: O(n), Reset => T: O(n), S: O(1), Shuffle => T: O(n), S: O(1)
 385. N.A
 386. N.A
