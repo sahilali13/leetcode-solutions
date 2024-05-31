@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 114`
+`Total Question Solved : 115`
 
 #### Question 1 -> 25
 
@@ -208,13 +208,14 @@
 
 #### Question 250 -> 275
 
-268. Missing Number -> T: O(n), S: O(1)
-269. N.A
-270. N.A
-271. N.A
-272. N.A
-273. N.A
-274. H-Index -> T: O(n), S: O(n)
+260. Single Number III -> T: O(n), S: O(1)
+261. Missing Number -> T: O(n), S: O(1)
+262. N.A
+263. N.A
+264. N.A
+265. N.A
+266. N.A
+267. H-Index -> T: O(n), S: O(n)
 
 #### Question 275 -> 300
 
