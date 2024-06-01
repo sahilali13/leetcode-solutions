@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 115`
+`Total Question Solved : 117`
 
 #### Question 1 -> 25
 
@@ -196,15 +196,16 @@
 
 #### Question 225 -> 250
 
-234. Palindrome Linked List -> T: O(n), S: O(1)
-235. N.A
+230. Kth Smallest Element in a BST -> T: O(n), S: O(h)
+231. Palindrome Linked List -> T: O(n), S: O(1)
+232. N.A
+233. N.A
+234. Delete Node in a Linked List -> T: O(1), S: O(1)
+235. Product of Array Except Self -> T: O(n), S: O(1)
 236. N.A
-237. Delete Node in a Linked List -> T: O(1), S: O(1)
-238. Product of Array Except Self -> T: O(n), S: O(1)
-239. N.A
-240. N.A
-241. N.A
-242. Valid Anagram -> T: O(n), S: O(1)
+237. N.A
+238. N.A
+239. Valid Anagram -> T: O(n), S: O(1)
 
 #### Question 250 -> 275
 
@@ -282,6 +283,10 @@
 #### Question 500 -> 525
 
 506. Relative Ranks -> T: O(n), S: O(n)
+
+#### Question 525 -> 550
+
+530. Minimum Absolute Difference in BST -> T: O(n), S: O(h)
 
 #### Question 550 -> 575
 
