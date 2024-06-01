@@ -442,6 +442,10 @@
 
 3075. Maximize Happiness of Selected Children -> T:O(nlogn), S: O(1)
 
+#### Question 3100 -> 3125
+
+3110. Score of a String -> T: O(n), S: O(1)
+
 #### Question 3150 -> 3175
 
 3158. Find the XOR of Numbers Which Appear Twice -> T: O(n), S: O(1)
