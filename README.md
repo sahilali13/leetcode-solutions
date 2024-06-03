@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 117`
+`Total Question Solved : 120`
 
 #### Question 1 -> 25
 
@@ -101,7 +101,7 @@
 
 101. Symmetric Tree -> T: O(n), S: O(h)
 102. Binary Tree Level Order Traversal -> T: O(n), S: O(n)
-103. N.A
+103. Binary Tree Zigzag Level Order Traversal -> T: O(n), S: O(n)
 104. Maximum Depth of Binary Tree -> T: O(n), S: O(n)
 105. N.A
 106. N.A
@@ -176,6 +176,7 @@
 196. N.A
 197. N.A
 198. House Robber -> T: O(n), S: O(1)
+199. Binary Tree Right Side View -> T: O(n), S: O(n)
 
 #### Question 200 -> 225
 
@@ -291,6 +292,10 @@
 #### Question 550 -> 575
 
 552. Student Attendance Record II -> T: O(n), S: O(1)
+
+#### Question 625 -> 650
+
+637. Average of Levels in Binary Tree -> T: O(n), S: O(n)
 
 #### Question 675 -> 700
 
