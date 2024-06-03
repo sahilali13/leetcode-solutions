@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 120`
+`Total Question Solved : 121`
 
 #### Question 1 -> 25
 
@@ -417,6 +417,7 @@
 
 #### Question 2475 -> 2500
 
+2486. Append Characters to String to Make Subsequence -> T: O(s), S: O(1)
 2487. Remove Nodes From Linked List -> T: O(n), S: O(1)
 
 #### Question 2575 -> 2600
