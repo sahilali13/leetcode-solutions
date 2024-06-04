@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 121`
+`Total Question Solved : 133`
 
 #### Question 1 -> 25
 
@@ -99,28 +99,31 @@
 
 #### Question 100 -> 125
 
+100. Same Tree -> T: O(n), S: O(h)
 101. Symmetric Tree -> T: O(n), S: O(h)
 102. Binary Tree Level Order Traversal -> T: O(n), S: O(n)
 103. Binary Tree Zigzag Level Order Traversal -> T: O(n), S: O(n)
 104. Maximum Depth of Binary Tree -> T: O(n), S: O(n)
-105. N.A
-106. N.A
+105. Construct Binary Tree from Preorder and Inorder Traversal -> T: O(n), S: O(n)
+106. Construct Binary Tree from Inorder and Postorder Traversal -> T: O(n), S: O(n)
 107. N.A
 108. Convert Sorted Array to Binary Search Tree -> T: O(n), S: O(n)
 109. N.A
 110. N.A
 111. N.A
-112. N.A
+112. Path Sum -> T: O(n), S: O(h)
 113. N.A
-114. N.A
+114. Flatten Binary Tree to Linked List -> T: O(n), S: O(1)
 115. N.A
 116. N.A
-117. N.A
+117. Populating Next Right Pointers in Each Node II -> T: O(n), S: O(1)
 118. Pascal's Triangle -> T: O(n<sup>2</sup>), S: O(n)
 119. N.A
 120. N.A
 121. Best Time to Buy and Sell Stock -> T: O(n), S: O(1)
 122. Best Time to Buy and Sell Stock II -> T: O(n), S: O(1)
+123. N.A
+124. Binary Tree Maximum Path Sum -> T: O(n), S: O(h)
 
 #### Question 125 -> 150
 
@@ -128,7 +131,7 @@
 126. N.A
 127. N.A
 128. N.A
-129. N.A
+129. Sum Root to Leaf Numbers -> T: O(n), S: O(h)
 130. N.A
 131. Palindrome Partitioning -> T: O(n<sup>2</sup> $\times$ 2<sup>n</sup>), S: O(n<sup>2</sup> + 2<sup>n</sup> $\times$ n)
 132. N.A
@@ -163,6 +166,10 @@
 167. N.A
 168. N.A
 169. Majority Element -> T: O(n), S: O(1)
+170. N.A
+171. N.A
+172. N.A
+173. Binary Search Tree Iterator -> T: init-O(h), next-O(1), hasNext-O(1), S: O(h)
 
 #### Question 175 -> 200
 
@@ -193,20 +200,32 @@
 214. N.A
 215. N.A
 216. N.A
-217. Contains Duplicate -> T: O(nlogn), S: O(1)
+217. Contains Duplicate -> T: O(n $\times$ log(n)), S: O(1)
+218. N.A
+219. N.A
+220. N.A
+221. N.A
+222. Count Complete Tree Nodes -> T: O(log(n)), S: O(log(n))
 
 #### Question 225 -> 250
 
+226. Invert Binary Tree -> T: O(n), S: O(h)
+227. N.A
+228. N.A
+229. N.A
 230. Kth Smallest Element in a BST -> T: O(n), S: O(h)
-231. Palindrome Linked List -> T: O(n), S: O(1)
+231. N.A
 232. N.A
 233. N.A
-234. Delete Node in a Linked List -> T: O(1), S: O(1)
-235. Product of Array Except Self -> T: O(n), S: O(1)
-236. N.A
-237. N.A
-238. N.A
-239. Valid Anagram -> T: O(n), S: O(1)
+234. Palindrome Linked List -> T: O(n), S: O(1)
+235. N.A
+236. Lowest Common Ancestor of a Binary Tree -> T: O(n), S: O(h)
+237. Delete Node in a Linked List -> T: O(1), S: O(1)
+238. Product of Array Except Self -> T: O(n), S: O(1)
+239. N.A
+240. N.A
+241. N.A
+242. Valid Anagram -> T: O(n), S: O(1)
 
 #### Question 250 -> 275
 
