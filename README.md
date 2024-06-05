@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 133`
+`Total Question Solved : 137`
 
 #### Question 1 -> 25
 
@@ -129,7 +129,7 @@
 
 125. Valid Palindrome -> T: O(n), S: O(1)
 126. N.A
-127. N.A
+127. Word Ladder -> T: O(n $\times$ L), S: O(n)
 128. N.A
 129. Sum Root to Leaf Numbers -> T: O(n), S: O(h)
 130. N.A
@@ -297,7 +297,16 @@
 
 #### Question 425 -> 450
 
-442. Find All Duplicates in an Array
+433. Minimum Genetic Mutation -> T: O(1), S: O(1)
+434. N.A
+435. N.A
+436. N.A
+437. N.A
+438. N.A
+439. N.A
+440. N.A
+441. N.A
+442. Find All Duplicates in an Array -> T: O(n), S: O(d)
 
 #### Question 450 -> 475
 
@@ -342,6 +351,10 @@
 #### Question 875 -> 900
 
 881. Boats to Save People -> T: O(nlogn), S: O(n)
+
+#### Question 900 -> 925
+
+909. Snakes and Ladders -> T: O(n<sup>2</sup>), S: O(n<sup>2</sup>)
 
 #### Question 950 -> 975
 
