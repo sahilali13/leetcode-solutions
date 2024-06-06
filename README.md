@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 138`
+`Total Question Solved : 145`
 
 #### Question 1 -> 25
 
@@ -132,10 +132,10 @@
 127. Word Ladder -> T: O(n $\times$ L), S: O(n)
 128. N.A
 129. Sum Root to Leaf Numbers -> T: O(n), S: O(h)
-130. N.A
+130. Surrounded Regions -> T: O(m $\times$ n), S: O(min(m, n))
 131. Palindrome Partitioning -> T: O(n<sup>2</sup> $\times$ 2<sup>n</sup>), S: O(n<sup>2</sup> + 2<sup>n</sup> $\times$ n)
 132. N.A
-133. N.A
+133. Clone Graph -> T: O(v + e), S: O(v + e)
 134. Gas Station -> T: O(n), S: O(1)
 135. Candy -> T: O(n), S: O(n)
 136. Single Number -> T: O(n), S: O(1)
@@ -187,13 +187,17 @@
 
 #### Question 200 -> 225
 
+200. Number of Islands -> T: O(m $\times$ n), S: O(min(m, n))
+201. N.A
+202. N.A
+203. N.A
 204. Count Primes -> T: O(log(log(n))) S: O(n)
 205. Isomorphic Strings -> T: O(n), S: O(n)
 206. Reverse Linked List -> T: O(n), S: O(1)
-207. N.A
+207. Course Schedule -> T: O(N + P), S: O(N + P)
 208. N.A
 209. N.A
-210. N.A
+210. Course Schedule II -> T: O(N + P), S: O(N + P)
 211. N.A
 212. N.A
 213. N.A
@@ -287,6 +291,18 @@
 385. N.A
 386. N.A
 387. First Unique Character in a String -> T: O(n), S: O(1)
+388. N.A
+389. N.A
+390. N.A
+391. N.A
+392. N.A
+393. N.A
+394. N.A
+395. N.A
+396. N.A
+397. N.A
+398. N.A
+399. Evaluate Division -> T: O(E) + O(Q $\times$ (V + E)), S: O(E + V)
 
 #### Question 400 -> 425
 
