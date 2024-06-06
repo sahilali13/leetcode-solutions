@@ -356,6 +356,10 @@
 
 786. K-th Smallest Prime Fraction -> T: O(nlogn), S: O(1)
 
+#### Question 825 -> 850
+
+846. Hand of Straights -> T: O(n $\times$ log(n)), S: O(n)
+
 #### Question 850 -> 875
 
 857. Minimum Cost to Hire K Workers -> T: O(nlogn), S: O(1)
