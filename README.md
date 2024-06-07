@@ -347,6 +347,17 @@
 #### Question 625 -> 650
 
 637. Average of Levels in Binary Tree -> T: O(n), S: O(n)
+638. N.A
+639. N.A
+640. N.A
+641. N.A
+642. N.A
+643. N.A
+644. N.A
+645. N.A
+646. N.A
+647. N.A
+648. Replace Words -> T: O(d $\times$ m + w $\times$ m), S: O(d $\times$ m + w $\times$ m)
 
 #### Question 675 -> 700
 
