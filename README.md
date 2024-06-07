@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 145`
+`Total Question Solved : 151`
 
 #### Question 1 -> 25
 
@@ -51,6 +51,7 @@
 46. N.A
 47. N.A
 48. Rotate Image -> T: O(n<sup>2</sup>), S: O(1)
+49. Group Anagrams -> T: O(n $\times$ k), S: O(n $\times$ k),
 
 #### Question 50 -> 75
 
@@ -130,7 +131,7 @@
 125. Valid Palindrome -> T: O(n), S: O(1)
 126. N.A
 127. Word Ladder -> T: O(n $\times$ L), S: O(n)
-128. N.A
+128. Longest Consecutive Sequence -> T: O(n), S: O(n)
 129. Sum Root to Leaf Numbers -> T: O(n), S: O(h)
 130. Surrounded Regions -> T: O(m $\times$ n), S: O(min(m, n))
 131. Palindrome Partitioning -> T: O(n<sup>2</sup> $\times$ 2<sup>n</sup>), S: O(n<sup>2</sup> + 2<sup>n</sup> $\times$ n)
@@ -189,7 +190,7 @@
 
 200. Number of Islands -> T: O(m $\times$ n), S: O(min(m, n))
 201. N.A
-202. N.A
+202. Happy Number -> T: O(k $\times$ log(n)), S: O(1)
 203. N.A
 204. Count Primes -> T: O(log(log(n))) S: O(n)
 205. Isomorphic Strings -> T: O(n), S: O(n)
@@ -206,7 +207,7 @@
 216. N.A
 217. Contains Duplicate -> T: O(n $\times$ log(n)), S: O(1)
 218. N.A
-219. N.A
+219. Contains Duplicate II -> T: O(n), S: O(k)
 220. N.A
 221. N.A
 222. Count Complete Tree Nodes -> T: O(log(n)), S: O(log(n))
@@ -254,6 +255,9 @@
 285. N.A
 286. N.A
 287. Find the Duplicate Number -> T: O(n), S: O(1)
+288. N.A
+289. N.A
+290. Word Pattern -> T: O(m + n), S: O(n)
 
 #### Question 325 -> 350
 
@@ -286,7 +290,7 @@
 380. Insert Delete GetRandom O(1) -> insert => T: O(1), S: O(n), remove => T: O(1), S: O(1), getRandom => T: O(1), S: O(1)
 381. N.A
 382. N.A
-383. N.A
+383. Ransom Note -> T: O(m + n), S: O(1)
 384. Shuffle an Array -> Init => T: O(n), S: O(n), Reset => T: O(n), S: O(1), Shuffle => T: O(n), S: O(1)
 385. N.A
 386. N.A
