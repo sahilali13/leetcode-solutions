@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 151`
+`Total Question Solved : 155`
 
 #### Question 1 -> 25
 
@@ -58,8 +58,8 @@
 53. Maximum Subarray -> T: O(n), S: O(1)
 54. N.A
 55. Jump Game -> T: O(n), S: O(n)
-56. N.A
-57. N.A
+56. Merge Intervals -> T: O(n $\times$ log(n)), S: O(n)
+57. Insert Interval -> T: O(n), S: O(n)
 58. Length of Last Word -> T: O(n), S: O(1)
 59. N.A
 60. N.A
@@ -216,7 +216,7 @@
 
 226. Invert Binary Tree -> T: O(n), S: O(h)
 227. N.A
-228. N.A
+228. Summary Ranges -> T: O(n), S: O(n)
 229. N.A
 230. Kth Smallest Element in a BST -> T: O(n), S: O(h)
 231. N.A
@@ -330,6 +330,15 @@
 
 #### Question 450 -> 475
 
+452. Minimum Number of Arrows to Burst Balloons -> T: O(n $\times$ log(n)), S: O(n)
+453. N.A
+454. N.A
+455. N.A
+456. N.A
+457. N.A
+458. N.A
+459. N.A
+460. N.A
 461. Hamming Distance -> T: O(log(n)), S: O(1)
 
 #### Question 500 -> 525
