@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 155`
+`Total Question Solved : 156`
 
 #### Question 1 -> 25
 
@@ -344,6 +344,23 @@
 #### Question 500 -> 525
 
 506. Relative Ranks -> T: O(n), S: O(n)
+507. N.A
+508. N.A
+509. N.A
+510. N.A
+511. N.A
+512. N.A
+513. N.A
+514. N.A
+515. N.A
+516. N.A
+517. N.A
+518. N.A
+519. N.A
+520. N.A
+521. N.A
+522. N.A
+523. Continuous Subarray Sum -> T: O(n), S: O(n)
 
 #### Question 525 -> 550
 
