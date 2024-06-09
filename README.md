@@ -1,11 +1,11 @@
 # Leetcode Solutions
 
-`Total Question Solved : 156`
+`Total Question Solved : 164`
 
 #### Question 1 -> 25
 
 1. Two Sum -> T: O(n), S: O(n)
-2. N.A
+2. Add Two Numbers -> T: O(max(n, m)), S: O(max(n, m))
 3. N.A
 4. N.A
 5. N.A
@@ -28,6 +28,7 @@
 
 #### Question 25 -> 50
 
+25. Reverse Nodes in k-Group -> T: O(n), S: O(1)
 26. Remove Duplicates from Sorted Array -> T: O(n), S: O(1)
 27. Remove Element -> T: O(n), S: O(1)
 28. Find the Index of the First Occurrence in a String -> T: O(n $\times$ m), S: O(1)
@@ -63,7 +64,7 @@
 58. Length of Last Word -> T: O(n), S: O(1)
 59. N.A
 60. N.A
-61. N.A
+61. Rotate List -> T: O(n), S: O(1)
 62. N.A
 63. N.A
 64. N.A
@@ -80,17 +81,17 @@
 79. Word Search -> T: O(rows.cols.4<sup>len(word)</sup>), S: O(len(word))
 80. Remove Duplicates from Sorted Array II -> T: O(n), S: O(1)
 81. N.A
-82. N.A
+82. Remove Duplicates from Sorted List II -> T: O(n), S: O(1)
 83. N.A
 84. N.A
 85. N.A
-86. N.A
+86. Partition List -> T: O(n), S: O(1)
 87. N.A
 88. Merge Sorted Array -> T: O(m + n), S: O(1)
 89. N.A
 90. N.A
 91. N.A
-92. N.A
+92. Reverse Linked List II -> T: O(n), S: O(1)
 93. N.A
 94. N.A
 95. N.A
@@ -141,10 +142,15 @@
 135. Candy -> T: O(n), S: O(n)
 136. Single Number -> T: O(n), S: O(1)
 137. N.A
-138. N.A
+138. Copy List with Random Pointer -> T: O(n), S: O(n)
 139. N.A
 140. Word Break II -> T: O(2<sup>n</sup>), S: O(n $\times$ 2<sup>n</sup>)
 141. Linked List Cycle -> T: O(n), S:O(1)
+142. N.A
+143. N.A
+144. N.A
+145. N.A
+146. LRU Cache -> T: O(1), S: O(n)
 
 #### Question 150 -> 175
 
