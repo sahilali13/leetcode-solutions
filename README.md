@@ -425,7 +425,31 @@
 
 #### Question 950 -> 975
 
-950. Reveal Cards In Increasing Order
+950. Reveal Cards In Increasing Order -> T: O(n $\times$ log(n)), S: O(n)
+951. N.A
+952. N.A
+953. N.A
+954. N.A
+955. N.A
+956. N.A
+957. N.A
+958. N.A
+959. N.A
+960. N.A
+961. N.A
+962. N.A
+963. N.A
+964. N.A
+965. N.A
+966. N.A
+967. N.A
+968. N.A
+969. N.A
+970. N.A
+971. N.A
+972. N.A
+973. N.A
+974. Subarray Sums Divisible by K -> T: O(n), S: O(k)
 
 #### Question 975 -> 1000
 
