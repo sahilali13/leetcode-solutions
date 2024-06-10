@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 167`
+`Total Question Solved : 168`
 
 #### Question 1 -> 25
 
@@ -474,6 +474,10 @@
 #### Question 1000 -> 1025
 
 1002. Find Common Characters - T: O(n $\times$ m), S: O(1)
+
+#### Question 1050 -> 1075
+
+1051. Height Checker -> T: O(n), S: O(n)
 
 #### Question 1200 -> 1225
 
