@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 164`
+`Total Question Solved : 167`
 
 #### Question 1 -> 25
 
@@ -57,7 +57,7 @@
 #### Question 50 -> 75
 
 53. Maximum Subarray -> T: O(n), S: O(1)
-54. N.A
+54. Spiral Matrix -> T: O(m $\times$ n), S: O(m $\times$ n)
 55. Jump Game -> T: O(n), S: O(n)
 56. Merge Intervals -> T: O(n $\times$ log(n)), S: O(n)
 57. Insert Interval -> T: O(n), S: O(n)
@@ -74,6 +74,9 @@
 68. Text Justification -> T: O(n), S: O(n $\times$ maxWidth)
 69. N.A
 70. Climbing Stairs -> T: O(n), S: O(1)
+71. N.A
+72. N.A
+73. Set Matrix Zeroes -> T: O(m $\times$ n), S: O(1)
 
 #### Question 75 -> 100
 
@@ -262,7 +265,7 @@
 286. N.A
 287. Find the Duplicate Number -> T: O(n), S: O(1)
 288. N.A
-289. N.A
+289. Game of Life -> T: O(m $\times$ n), S: O(1)
 290. Word Pattern -> T: O(m + n), S: O(n)
 
 #### Question 325 -> 350
