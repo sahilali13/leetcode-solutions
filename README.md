@@ -1,12 +1,12 @@
 # Leetcode Solutions
 
-`Total Question Solved : 168`
+`Total Question Solved : 172`
 
 #### Question 1 -> 25
 
 1. Two Sum -> T: O(n), S: O(n)
 2. Add Two Numbers -> T: O(max(n, m)), S: O(max(n, m))
-3. N.A
+3. Longest Substring Without Repeating Characters -> T: O(n), S: O(1)
 4. N.A
 5. N.A
 6. Zigzag Conversion -> T: O(n), S: O(n)
@@ -33,7 +33,7 @@
 27. Remove Element -> T: O(n), S: O(1)
 28. Find the Index of the First Occurrence in a String -> T: O(n $\times$ m), S: O(1)
 29. N.A
-30. N.A
+30. Substring with Concatenation of All Words -> T: O(n $\times$ m), S: O(m)
 31. N.A
 32. N.A
 33. N.A
@@ -80,6 +80,8 @@
 
 #### Question 75 -> 100
 
+76. Minimum Window Substring -> T: O(m + n), S: O(n)
+77. N.A
 78. Subsets -> T: O(n.2<sup>n</sup>), S: O(n.2<sup>n</sup>)
 79. Word Search -> T: O(rows.cols.4<sup>len(word)</sup>), S: O(len(word))
 80. Remove Duplicates from Sorted Array II -> T: O(n), S: O(1)
@@ -206,7 +208,7 @@
 206. Reverse Linked List -> T: O(n), S: O(1)
 207. Course Schedule -> T: O(N + P), S: O(N + P)
 208. N.A
-209. N.A
+209. Minimum Size Subarray Sum -> T: O(n), S: O(1)
 210. Course Schedule II -> T: O(N + P), S: O(N + P)
 211. N.A
 212. N.A
