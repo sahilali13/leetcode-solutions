@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 172`
+`Total Question Solved : 175`
 
 #### Question 1 -> 25
 
@@ -74,7 +74,7 @@
 68. Text Justification -> T: O(n), S: O(n $\times$ maxWidth)
 69. N.A
 70. Climbing Stairs -> T: O(n), S: O(1)
-71. N.A
+71. Simplify Path -> T: O(n), S: O(n)
 72. N.A
 73. Set Matrix Zeroes -> T: O(m $\times$ n), S: O(1)
 
@@ -159,6 +159,7 @@
 
 #### Question 150 -> 175
 
+150. Evaluate Reverse Polish Notation -> T: O(n), S: O(n)
 151. Reverse Words in a String -> T: O(n), S: O(n)
 152. N.A
 153. N.A
@@ -222,6 +223,8 @@
 220. N.A
 221. N.A
 222. Count Complete Tree Nodes -> T: O(log(n)), S: O(log(n))
+223. N.A
+224. Basic Calculator -> T: O(n), S: O(n)
 
 #### Question 225 -> 250
 
