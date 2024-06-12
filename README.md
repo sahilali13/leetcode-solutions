@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 175`
+`Total Question Solved : 176`
 
 #### Question 1 -> 25
 
@@ -80,6 +80,7 @@
 
 #### Question 75 -> 100
 
+75. Sort Colors -> T: O(n), S: O(1)
 76. Minimum Window Substring -> T: O(m + n), S: O(n)
 77. N.A
 78. Subsets -> T: O(n.2<sup>n</sup>), S: O(n.2<sup>n</sup>)
