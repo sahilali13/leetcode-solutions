@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 176`
+`Total Question Solved : 178`
 
 #### Question 1 -> 25
 
@@ -209,10 +209,10 @@
 205. Isomorphic Strings -> T: O(n), S: O(n)
 206. Reverse Linked List -> T: O(n), S: O(1)
 207. Course Schedule -> T: O(N + P), S: O(N + P)
-208. N.A
+208. Implement Trie (Prefix Tree) -> T: O(m), S: O(m)
 209. Minimum Size Subarray Sum -> T: O(n), S: O(1)
 210. Course Schedule II -> T: O(N + P), S: O(N + P)
-211. N.A
+211. Design Add and Search Words Data Structure -> T: O(26<sup>d</sup> $\times$ m), S: O(m)
 212. N.A
 213. N.A
 214. N.A
