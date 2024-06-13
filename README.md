@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 178`
+`Total Question Solved : 179`
 
 #### Question 1 -> 25
 
@@ -545,6 +545,10 @@
 #### Question 1850 -> 1875
 
 1863. Sum of All Subset XOR Totals
+
+#### Question 2025 -> 2050
+
+2037. Minimum Number of Moves to Seat Everyone -> T: O(nlogn), S: O(1)
 
 #### Question 2050 -> 2075
 
