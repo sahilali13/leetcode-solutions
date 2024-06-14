@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 179`
+`Total Question Solved : 183`
 
 #### Question 1 -> 25
 
@@ -14,11 +14,11 @@
 8. String to Integer (atoi) -> T: O(n), S: O(1)
 9. N.A
 10. N.A
-11. N.A
+11. Container With Most Water -> T: O(n), S: O(1)
 12. Integer to Roman -> T: O(n), S: O(1)
 13. Roman to Integer -> T: O(n), S: O(1)
 14. Longest Common Prefix -> T: O(n $\times$ m), S: O(1)
-15. N.A
+15. 3Sum -> T: O(n<sup>2</sup>), S: O(n + k)
 16. N.A
 17. N.A
 18. N.A
@@ -177,7 +177,7 @@
 164. N.A
 165. Compare Version Numbers -> T: O(n), S: O(n)
 166. N.A
-167. N.A
+167. Two Sum II - Input Array Is Sorted -> T: O(n), S: O(1)
 168. N.A
 169. Majority Element -> T: O(n), S: O(1)
 170. N.A
@@ -314,7 +314,7 @@
 389. N.A
 390. N.A
 391. N.A
-392. N.A
+392. Is Subsequence -> T: O(max(s, t)), S: O(1)
 393. N.A
 394. N.A
 395. N.A
