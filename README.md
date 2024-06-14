@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 183`
+`Total Question Solved : 184`
 
 #### Question 1 -> 25
 
@@ -431,6 +431,10 @@
 #### Question 900 -> 925
 
 909. Snakes and Ladders -> T: O(n<sup>2</sup>), S: O(n<sup>2</sup>)
+
+#### Question 925 -> 950
+
+945. Minimum Increment to Make Array Unique -> T: _O(NLogN)_, S: _O(1)_
 
 #### Question 950 -> 975
 
