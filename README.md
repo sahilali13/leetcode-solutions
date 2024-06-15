@@ -358,6 +358,10 @@
 
 #### Question 500 -> 525
 
+502. IPO -> T: _O(NLogN)_, S: _O(N)_
+503. N.A
+504. N.A
+505. N.A
 506. Relative Ranks -> T: O(n), S: O(n)
 507. N.A
 508. N.A
