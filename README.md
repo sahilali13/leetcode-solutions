@@ -280,7 +280,7 @@
 327. N.A
 328. N.A
 329. N.A
-330. N.A
+330. Patching Array -> T: _O(LogN)_, S: _O(1)_
 331. N.A
 332. N.A
 333. N.A
