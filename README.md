@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-`Total Question Solved : 184`
+`Total Question Solved : 185`
 
 #### Question 1 -> 25
 
@@ -391,7 +391,11 @@
 
 #### Question 625 -> 650
 
-637. Average of Levels in Binary Tree -> T: O(n), S: O(n)
+633. Sum of Square Numbers -> T: _O(Sqrt(C))_, S: _O(1)_
+634. Average of Levels in Binary Tree -> T: O(n), S: O(n)
+635. N.A
+636. N.A
+637. N.A
 638. N.A
 639. N.A
 640. N.A
@@ -399,10 +403,7 @@
 642. N.A
 643. N.A
 644. N.A
-645. N.A
-646. N.A
-647. N.A
-648. Replace Words -> T: O(d $\times$ m + w $\times$ m), S: O(d $\times$ m + w $\times$ m)
+645. Replace Words -> T: O(d $\times$ m + w $\times$ m), S: O(d $\times$ m + w $\times$ m)
 
 #### Question 675 -> 700
 
