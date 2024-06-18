@@ -419,6 +419,26 @@
 
 #### Question 825 -> 850
 
+826. Most Profit Assigning Work - T: _O(NLogN)_, S: _O(N)_
+827. N.A
+828. N.A
+829. N.A
+830. N.A
+831. N.A
+832. N.A
+833. N.A
+834. N.A
+835. N.A
+836. N.A
+837. N.A
+838. N.A
+839. N.A
+840. N.A
+841. N.A
+842. N.A
+843. N.A
+844. N.A
+845. N.A
 846. Hand of Straights -> T: O(n $\times$ log(n)), S: O(n)
 
 #### Question 850 -> 875
