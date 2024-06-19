@@ -553,6 +553,10 @@
 
 1442. Count Triplets That Can Form Two Arrays of Equal XOR -> T: O(n<sup>2</sup>), S: O(n)
 
+#### Question 1475 -> 1500
+
+1482. Minimum Number of Days to Make m Bouquets -> T: _O(NLog(Max(Bloomday)))_, S: _O(1)_
+
 #### Question 1525 -> 1550
 
 1544. Make The String Great
