@@ -513,6 +513,7 @@
 #### Question 1050 -> 1075
 
 1051. Height Checker -> T: O(n), S: O(n)
+1052. Grumpy Bookstore Owner -> T: _O(N)_, S: _O(1)_
 
 #### Question 1100 -> 1125
 
@@ -560,6 +561,10 @@
 #### Question 1525 -> 1550
 
 1544. Make The String Great
+
+#### Question 1550 -> 1575
+
+1552. Magnetic Force Between Two Balls
 
 #### Question 1600 -> 1625
 
