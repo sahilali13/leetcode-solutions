@@ -536,6 +536,7 @@
 
 #### Question 1225 -> 1250
 
+1248. Count Number of Nice Subarrays -> T: _O(N)_, S: _O(N)_
 1249. Minimum Remove to Make Valid Parentheses
 
 #### Question 1250 -> 1275
