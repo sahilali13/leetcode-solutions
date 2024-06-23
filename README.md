@@ -553,6 +553,10 @@
 
 #### Question 1425 -> 1450
 
+1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit -> T: _O(N)_, S: _O(N)_
+1439. N.A
+1440. N.A
+1441. N.A
 1442. Count Triplets That Can Form Two Arrays of Equal XOR -> T: O(n<sup>2</sup>), S: O(n)
 
 #### Question 1475 -> 1500
