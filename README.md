@@ -505,6 +505,9 @@
 990. N.A
 991. N.A
 992. Subarrays with K Different Integers -> T: O(n), S: O(n)
+993. N.A
+994. N.A
+995. Minimum Number of K Consecutive Bit Flips -> T: _O(N)_, S: _O(K)_
 
 #### Question 1000 -> 1025
 
